@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/greyce/TestProject/build",
+  "command": "/usr/bin/g++  -I/path/to/less/includes -I/path/to/syslog/includes -g -std=gnu++11 -o CMakeFiles/TestProject.dir/main.cpp.o -c /home/greyce/TestProject/main.cpp",
+  "file": "/home/greyce/TestProject/main.cpp"
+}
+]

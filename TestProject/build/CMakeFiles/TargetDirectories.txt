@@ -1,0 +1,3 @@
+/home/greyce/TestProject/build/CMakeFiles/TestProject.dir
+/home/greyce/TestProject/build/CMakeFiles/edit_cache.dir
+/home/greyce/TestProject/build/CMakeFiles/rebuild_cache.dir

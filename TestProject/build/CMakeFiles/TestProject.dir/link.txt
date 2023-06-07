@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/TestProject.dir/main.cpp.o -o TestProject   -L/path/to/less/libraries  -L/path/to/syslog/libraries  -Wl,-rpath,/path/to/less/libraries:/path/to/syslog/libraries -lless -lsyslog 
